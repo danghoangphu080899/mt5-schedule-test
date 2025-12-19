@@ -1,0 +1,17 @@
+{
+  "TEN_MAY_1": {
+    "_info": { "alias": "Tên dễ nhớ" },
+    "YYYY-MM-DD": {
+      "open":  ["HH:mm", "HH:mm"],
+      "close": ["HH:mm"]
+    }
+  },
+
+  "TEN_MAY_2": {
+    "_info": { "alias": "Tên dễ nhớ" },
+    "YYYY-MM-DD": {
+      "open":  ["HH:mm"],
+      "close": ["HH:mm"]
+    }
+  }
+}
